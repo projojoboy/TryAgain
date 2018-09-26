@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Portal
+  - Wall
+  - DeathPoint
+  - Chest
+  - Saw
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Projectiles
+  - Checkpoints
+  - Collectables
+  - EnemyProjectile
+  - Background
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 621533679
+    locked: 0
+  - name: Ground
+    uniqueID: 2403836227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindEnvironment
+    uniqueID: 1948841009
+    locked: 0
+  - name: Environment
+    uniqueID: 2694350165
+    locked: 0
+  - name: InfrontEnvironment
+    uniqueID: 3227726333
+    locked: 0
+  - name: Portal
+    uniqueID: 810178593
+    locked: 0
+  - name: Boss
+    uniqueID: 3254984351
+    locked: 0
+  - name: Player
+    uniqueID: 2255767187
+    locked: 0
+  - name: Foreground
+    uniqueID: 772436047
+    locked: 0
